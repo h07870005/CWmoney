@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		193ECCB51F239FE3005B9560 /* CWmoney.app in Resources */ = {isa = PBXBuildFile; fileRef = 199B75081F23998D00C55D75 /* CWmoney.app */; };
 		199B750C1F23998D00C55D75 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199B750B1F23998D00C55D75 /* AppDelegate.swift */; };
 		199B750E1F23998D00C55D75 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 199B750D1F23998D00C55D75 /* ViewController.swift */; };
 		199B75111F23998D00C55D75 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 199B750F1F23998D00C55D75 /* Main.storyboard */; };
@@ -122,6 +123,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				193ECCB51F239FE3005B9560 /* CWmoney.app in Resources */,
 				199B75161F23998D00C55D75 /* LaunchScreen.storyboard in Resources */,
 				199B75131F23998D00C55D75 /* Assets.xcassets in Resources */,
 				199B75111F23998D00C55D75 /* Main.storyboard in Resources */,
@@ -316,6 +318,7 @@
 				199B751C1F23998D00C55D75 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
